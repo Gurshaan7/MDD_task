@@ -1,0 +1,16 @@
+[package]
+name = 'voting-system'
+version = '1.0.0'
+
+
+[addresses]
+my_addrx="0x42"
+ 
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
+
+
+
+
+
